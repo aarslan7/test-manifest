@@ -1,3 +1,5 @@
 <manifest>
+    <remote  fetch="git://github.com/" name="github"  alias="origin"/>
+  
     <project name="meta-rust/meta-rust"    path="meta-rust" remote="github" revision="d8d77be1292064a02adcb5e72e293"  />
   </manifest>
